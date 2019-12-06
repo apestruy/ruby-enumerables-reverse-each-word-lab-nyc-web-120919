@@ -1,3 +1,3 @@
-def reverse-each-word
+def reverse-each-word(string)
   
 end
